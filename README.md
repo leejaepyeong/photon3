@@ -100,8 +100,21 @@ Enqueue(obj) 먼저 들어온 순서대로 내보내기
   ![image](https://user-images.githubusercontent.com/80494367/124207050-97ab7f00-db1f-11eb-9ae1-5a23d90b7e21.png)
 
   
-  
-  
-  
+   포톤보이스
+ ![image](https://user-images.githubusercontent.com/80494367/124209874-5cac4a00-db25-11eb-9621-93d4c14a7b43.png)
 
-  
+ ![image](https://user-images.githubusercontent.com/80494367/124209933-7b124580-db25-11eb-9f4f-c974d88881da.png)
+
+ ![image](https://user-images.githubusercontent.com/80494367/124209950-87969e00-db25-11eb-8c9e-e05d82203891.png)
+
+ ![image](https://user-images.githubusercontent.com/80494367/124210017-a85ef380-db25-11eb-80fc-e2120ea6d1b8.png)
+ 
+ ![image](https://user-images.githubusercontent.com/80494367/124210064-c167a480-db25-11eb-9e4b-c4142639ea09.png)
+
+ ![image](https://user-images.githubusercontent.com/80494367/124210529-89149600-db26-11eb-9bef-12ec6561c386.png)
+
+가까워지면 (서로 트리거발동 ) 하면 사운드 발생
+
+ 
+
+
